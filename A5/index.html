@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="Gallery.css">
+  </head>
+  <body>
+    <div class="galleryContainer">
+
+
+      <div class="slides">
+        <input type="radio" name="Christian Slider" id="c1" checked>
+        <input type="radio" name="Christian Slider" id="c2">
+        <input type="radio" name="Christian Slider" id="c3">
+        <input type="radio" name="Christian Slider" id="c4">
+        <input type="radio" name="Christian Slider" id="c5">
+        <div class="slide s1">
+          <img src="DIO.png" alt="">
+        </div>
+        <div class="slide">
+          <img src="DIO Pose.jpg" alt="">
+        </div>
+        <div class="slide">
+          <img src="goku.jpg" alt="">
+        </div>
+        <div class="slide">
+          <img src="KH.jpeg" alt="">
+        </div>
+        <div class="slide">
+          <img src="Yozora.jpg" alt="">
+        </div>
+      </div>
+
+      <div class="navigation">
+        <label for="c1" class="bar"></label>
+        <label for="c2" class="bar"></label>
+        <label for="c3" class="bar"></label>
+        <label for="c4" class="bar"></label>
+        <label for="c5" class="bar"></label>
+        <style>
+          img{
+        display:  block;
+        height: 100px;
+          }
+          </style>
+          <body>
+            <img>
+          <//button onclick='$("DIO.png").attr("src", imgs[0])'> 1 </button>
+        <//button onclick='$("DIO Pose.jpg").attr("src", imgs[1])'> 2 </button>
+      <//button onclick='$("jojo.jpg").attr("src", imgs[2  ])'> 3 </button>
+
+            </body>
+            <script>
+              var imgs = [
+                  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Acer_diabolicum_9_%28medium_crop%29.jpg/320px-Acer_diabolicum_9_%28medium_crop%29.jpg",
+                  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Delos_Museum_Mosaik_Dionysos_09.jpg/240px-Delos_Museum_Mosaik_Dionysos_09.jpg",
+                  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/CSIRO_ScienceImage_3881_Five_Antennas_at_Narrabri_-_restoration1.jpg/800px-CSIRO_ScienceImage_3881_Five_Antennas_at_Narrabri_-_restoration1.jpg"
+              ];
+              $("img").attr("src", imgs[0])
+              </script>
+      </div>
+    </div>
+  </body>
+</html>
