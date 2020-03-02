@@ -9,21 +9,6 @@
 <body>
 
 
-    <style>
-  div {
-
-    background-color: pink;
-    animation-name: example;
-    animation-duration: 13s;
-    align= middle
-  }
-
-  @keyframes example {
-    from {background-color: purple;}
-    to {background-color: blue;}
-    align= middle
-  }
-  </style>
 
   <header>
     <h1>Christian Puebla</h1>
