@@ -1,38 +1,154 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
 
-You can use the [editor on GitHub](https://github.com/cpuebla2/AME220/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<head>
+  <title>Resume</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="Resume.css">
+</head>
+<body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+    <style>
+  div {
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    background-color: pink;
+    animation-name: example;
+    animation-duration: 13s;
+    align= middle
+  }
 
-```markdown
-Syntax highlighted code block
+  @keyframes example {
+    from {background-color: purple;}
+    to {background-color: blue;}
+    align= middle
+  }
+  </style>
 
-# Header 1
-## Header 2
-### Header 3
+  <header>
+    <h1>Christian Puebla</h1>
+  </header>
+  <img src="Thumbnail copy.png" alt="Trulli" width="100" height="99" align="right">
 
-- Bulleted
-- List
+  <dl>
+   <p><a href="https://www.google.com/">cpuebla2@asu.edu  </a> &emsp;&emsp;&emsp;&emsp;<a href="https://www.whatsapp.com/">(623)-239-8273</a></a> &emsp;&emsp;&emsp;&emsp;<a href="https://www.linkedin.com/">https://www.linkedin.com/in/christian-puebla</a></p>
+   </dl>
 
-1. Numbered
-2. List
+<div id="container">
+		<header>
+			<h1>OBJECTIVES</h1>
+			<h2>(Accordian Checkbox)</h2>
+		</header>
+		<section id="accordion">
+			<div>
+				<input type="checkbox" id="check-1" />
+				<label for="check-1">Quote 1</label>
+				<article>
+  					<p>Self-motivated to create my dreams one step at a time learning and further improving my skills in everyday life.</p>
+				</article>
+			</div>
+			<div>
+				<input type="checkbox" id="check-2" />
+				<label for="check-2">Quote 2</label>
+				<article>
+					<p>You can die anytime, but living takes true courage</p>
+				</article>
+			</div>
+			<div>
+				<input type="checkbox" id="check-3" />
+				<label for="check-3">Quote 3</label>
+				<article>
+					<p>If you give up before even giving yourself a chance, you’ll accomplish nothing.
 
-**Bold** and _Italic_ and `Code` text
+Which means you’ve wasted your time for no good reason</p>
+				</article>
+			</div>
+		</section>
+  </div>
 
-[Link](url) and ![Image](src)
-```
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://images.app.goo.gl/eq5GicUfMWYXC2md6)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<main>
+  <header>
+ <h2>Education</h2>
+ <h3>Bachelor of Digital Culture, Music &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;May 2021 </h3>
+ </header>
+  <dl>
 
-### Jekyll Themes
+       <dd>Arizona State University, Tempe, AZ</dd>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cpuebla2/AME220/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</dl>
+<table style="width:100%">
+  <tr>
+    <th>School</th>
+    <th>Grade Level</th>
+    <th>Years Attended</th>
+  </tr>
+  <tr>
+    <td>Villa De Paz Middle School</td>
+    <td>Kindergarden-8th Grade</td>
+    <td>2006-2013 </td>
+  </tr>
+  <tr>
+    <td>Grade Westview High School</td>
+    <td>9th-12th Grade</td>
+    <td>2013-2017</td>
+  </tr>
+  <tr>
+    <td>ASU University</td>
+    <td>13th-16th Grade</td>
+    <td>2017-2021</td>
+  </tr>
+</table>
 
-### Support or Contact
+<h2>Busser/ DishWasher, El Tataki, Avondale AZ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;March 2019- July 2019</h2>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<ol>
+  <li>Worked Multiple job positions at once when ever the restaurant was under staff.</li>
+  <li>Made sure to clean the restaurant and usually would leave last to make sure everything was clean.</li>
+  <li>Had to speak Spanish because most of the workers don’t speak English.</li>
+  <li>Had to provide great customer service to the clientele.</li>
+</ol>
+<h2>Door to door Sales Rep, AT&T Clear Home, Phoenix AZ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;April 2018- June 2018</h2>
+
+<ol>
+  <li>Moved us all out to Grand Rapids Michigan to live together and learn sales daily</li>
+  <li>Emphasized the specific product features that would stand out to customers, showing them product
+limitations and capabilities.</li>
+  <li>Followed up with customers ensuring their satisfaction with their purchases.</li>
+  <li>Every day was a competition and a struggle to eat because money isn’t guaranteed in commission-based
+jobs</li>
+<li> Made us work from 9 am to almost 12 at night Mon.- Sat. knocking doors</li>
+</ol>
+<h2>Community Involvement&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;September 2014- December 2014</h2>
+<dl>
+
+     <dd>Volunteer, Boys and Girls Club, Phoenix, AZ </dd>
+
+</dl>
+<ul>
+  <li>Protected and helped tutor kids between pre-school to fourth grade</li>
+  <li>Helped clean up after kids and keep large groups of kids under control all at once</li>
+  <li>Guiding kids through hard times and making sure everyone is happy</li>
+  <li>I’m really good at stopping kids from fighting and I have patience when kids over react</li>
+  <li>I told stories and whenever a situation happened I kept calm and just helped the teachers take care of it</li>
+</ul>
+<h2>Certifications</h2>
+
+<ul>
+  <li>Audio Engineer, Recording Connection September 2017</li>
+
+</ul>
+<h2>Skills</h2>
+
+<ul>
+<li>Languages: Fluent in Spanish</li>
+<li>Music Software: Pro-Tools</li>
+<li>Computer Software: Proficient in Microsoft Word, Adobe Photoshop and Film</li>
+</ul>
+
+
+
+</main>
+
+
+</body>
+</html>
