@@ -20,7 +20,7 @@
 <div id="container">
 		<header>
 			<h1>OBJECTIVES</h1>
-			
+			<h2>(Accordian List)</h2>
 		</header>
 		<section id="accordion">
 			<div>
