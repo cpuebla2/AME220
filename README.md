@@ -14,7 +14,7 @@
   <img src="Thumbnail copy.png" alt="Trulli" width="100" height="99" align="right">
 
   <dl>
-   <p><a href="https://www.google.com/">cpuebla2@asu.edu  </a> &emsp;&emsp;&emsp;&emsp;<a href="https://www.whatsapp.com/">(623)-239-8273</a></a> &emsp;&emsp;&emsp;&emsp;<a href="https://www.linkedin.com/">https://www.linkedin.com/in/christian-puebla</a></p>
+   <p><a href="https://www.google.com/">cpuebla2@asu.edu  </a> &emsp;&emsp;&emsp;&emsp;<a href="https://www.whatsapp.com/">(623)-239-8273</a> &emsp;&emsp;&emsp;&emsp;<a href="https://www.linkedin.com/">https://www.linkedin.com/in/christian-puebla</a></p>
    </dl>
 
 <div id="container">
