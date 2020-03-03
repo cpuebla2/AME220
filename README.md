@@ -54,11 +54,11 @@ Which means you’ve wasted your time for no good reason</p>
  <h2>Education</h2>
  <h3>Bachelor of Digital Culture, Music &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;May 2021 </h3>
  </header>
-  <dl>
+  
 
-       <dd>Arizona State University, Tempe, AZ</dd>
+       Arizona State University, Tempe, AZ
 
-</dl>
+
 <table style="width:100%">
   <tr>
     <th>School</th>
