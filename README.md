@@ -11,8 +11,6 @@
   <header>
     <h1>Christian Puebla</h1>
   </header>
-  ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.usgamer.net%2Farticles%2Fmovie-sonic-redesign-artist-has-a-long-history-with-the-hedgehog&psig=AOvVaw1t8llX_rU7GPJnhqGyomGz&ust=1583300396019000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjwkOLL_ecCFQAAAAAdAAAAABAD)
 
   <dl>
    <p><a href="https://www.google.com/">cpuebla2@asu.edu  </a> &emsp;&emsp;&emsp;&emsp;<a href="https://www.whatsapp.com/">(623)-239-8273</a> &emsp;&emsp;&emsp;&emsp;<a href="https://www.linkedin.com/">https://www.linkedin.com/in/christian-puebla</a></p>
