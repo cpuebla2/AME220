@@ -104,7 +104,7 @@ jobs</li>
 <h2>Community Involvement&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;September 2014- December 2014</h2>
 <dl>
 
-     <dd>Volunteer, Boys and Girls Club, Phoenix, AZ </dd>
+     Volunteer, Boys and Girls Club, Phoenix, AZ 
 
 </dl>
 <ul>
